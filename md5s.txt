@@ -1,0 +1,3 @@
+2fdebca708b1f71f8259f1a742a874ea  start_update.sh
+717df2ce807360d827e160217cdaa4e2  update.zip
+4ac1b254b48782f1ff8e455e3c7c51ce  recovery.img
