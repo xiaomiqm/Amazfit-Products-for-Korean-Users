@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">집으로 안내</string>
+    <string name="abc_action_bar_home_description">홈으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
     <string name="abc_action_menu_overflow_description">더 보기</string>
     <string name="abc_action_mode_done">마침</string>
@@ -26,7 +26,6 @@
     <string name="actionbar_help">도움</string>
     <string name="add_training">추가</string>
     <string name="add_wifi">Wi-Fi 추가</string>
-    <string name="aka">AKA</string>
     <string name="alert_disable">비활성화됨</string>
     <string name="alert_enable">활성화됨</string>
     <string name="algo_version">알고리즘 : %s</string>
@@ -123,7 +122,7 @@
     <string name="card_activity_today_step">Steps</string>
     <string name="card_hr">심박 수</string>
     <string name="card_hr_all_day_chart_tip">최근 2시간</string>
-    <string name="card_hr_chart_tip"최근 10시간</string>
+    <string name="card_hr_chart_tip">최근 10시간</string>
     <string name="card_hr_none_tip">당신의 심박을 느껴보세요.</string>
     <string name="card_sleep">수면</string>
     <string name="card_sleep_none_tip">수면 기록은 좋은 습관입니다.</string>
@@ -173,7 +172,6 @@
     <string name="contact_permission_tip_title">Please turn on the contact read permission</string>
     <string name="content_miui">If the phone uses the MIUI system, please find and enter Security center - Permission management - Self-starting management on the phone desktop, and add the \"Amazfit Watch\" to the white list.</string>
     <string name="content_other">"If the phone doesn't use the MIUI system or has installed security assistant software, please also add the \"Amazfit Watch\" to the self-starting white list."</string>
-    <string name="count_unit_name" />
     <string name="current_day">Today</string>
     <string name="current_month">This month</string>
     <string name="current_preview_version_title">You are now getting developer edition updates. Please update the app and watch firmware to the latest version.</string>
@@ -210,7 +208,6 @@ Use your watch to measure your heart rate!"</string>
     <string name="data_item_downhill_single_distance">Current Distance</string>
     <string name="data_item_downhill_single_elevation_loss">Single Descent</string>
     <string name="data_item_downhill_total_distance">Total Mileage</string>
-    <string name="data_item_dps">DPS</string>
     <string name="data_item_elevation_gain">Elevation Gain</string>
     <string name="data_item_elevation_gain_altitude">Elevation Gain</string>
     <string name="data_item_elevation_loss">Elevation Loss</string>
@@ -234,21 +231,15 @@ Use your watch to measure your heart rate!"</string>
     <string name="data_sport_title">%1$s %2$s%3$s</string>
     <string name="data_step_message">Goal %1$s steps</string>
     <string name="data_step_title">Steps %1$s</string>
-    <string name="date_month_day">MMM dd</string>
-    <string name="date_time_format">yyyy-MM-dd HH:mm</string>
-    <string name="date_year_month">MMMM y</string>
     <string name="del_keyword_msg">After deletion, the watch will no longer receive this person message</string>
     <string name="delete">Delete</string>
     <string name="delete_record_title">Delete this record?</string>
     <string name="delete_tips">You will not be able to restore the workout after deletion,continue?</string>
     <string name="delete_watchface_tips">将在手表中删除选中的表盘，是否继续？</string>
-    <string name="detial_ampm_format">hh:mm a</string>
-    <string name="detial_ampm_format_hhmmss">hh:mm:ss a</string>
     <string name="device_bind_watch">Please pair Amazfit Watch</string>
     <string name="device_connection_help">Connecting help</string>
-    <string name="device_detail_info">Device details</string>
-    <string name="device_info_battery_default_percent">100</string>
-    <string name="device_main">Active Device</string>
+    <string name="device_detail_info">Device details</string>    
+	<string name="device_main">Active Device</string>
     <string name="device_name">Amazfit Sports Watch</string>
     <string name="device_name_default">Amazfit Watch</string>
     <string name="device_name_everest">Amazfit Sports Watch 2</string>
@@ -259,7 +250,6 @@ Use your watch to measure your heart rate!"</string>
     <string name="device_name_everest_oversea">Amazfit Stratos</string>
     <string name="device_name_oversea">Amazfit Pace</string>
     <string name="device_start_bind">Pair New Watch</string>
-    <string name="device_status_value_unknown">-</string>
     <string name="device_syncing_data_help">Syncing help</string>
     <string name="device_system_permission">System Permissions</string>
     <string name="device_tip_ble_not_open">Bluetooth not enabled</string>
@@ -287,14 +277,8 @@ Use your watch to measure your heart rate!"</string>
     <string name="dynamic_sleep_shallow">Light Sleep</string>
     <string name="eap_step_two_verify">ID verifying for Phase 2</string>
     <string name="eap_type">EAP method</string>
-    <string name="empty_unit_name" />
-    <string name="empty_value">--</string>
-    <string name="encode_type_eap">802.1x EAP</string>
     <string name="encode_type_none">NONE</string>
-    <string name="encode_type_wep">WEP</string>
-    <string name="encode_type_wpa">WPA/WPA2 PSK</string>
     <string name="energy_info">Burned</string>
-    <string name="energy_unit">kCal</string>
     <string name="enter_favorite_program">请输入想要搜索的内容</string>
     <string name="error_connect_alipay">"Couldn't access to Alipay, check your network connection and try again"</string>
     <string name="everest_anim_title_first">From watchface screen, use hardware keys to quickly start an activity, show quick settings or notifications</string>
@@ -318,7 +302,6 @@ Use your watch to measure your heart rate!"</string>
     <string name="facestore_install_processing">安装中，请勿离开</string>
     <string name="facestore_install_progress_complete">完成</string>
     <string name="facestore_install_progress_process">正在安装中... %1$s</string>
-    <string name="facestore_install_size_title">%1$sKB</string>
     <string name="facestore_install_time_title">%1$s次下载</string>
     <string name="facestore_title">Watchface Center</string>
     <string name="fastest">Best: %1$s</string>
@@ -339,7 +322,6 @@ Use your watch to measure your heart rate!"</string>
     <string name="feedback_too_many_char">"Feedback shouldn't be more than 200 characters"</string>
     <string name="feedback_upload_logcat">Upload logs (to help us locate problems)</string>
     <string name="feedback_uploading">Submitting feedback</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_manager">File Manager</string>
     <string name="file_manager_clear_all">Clear all</string>
     <string name="file_manager_connect_ap_warning_block">"Don't show again"</string>
@@ -354,7 +336,6 @@ Use your watch to measure your heart rate!"</string>
     <string name="file_manager_no_file">No file</string>
     <string name="file_manager_no_task">No transfer job</string>
     <string name="file_manager_retry_all">Retry all</string>
-    <string name="file_manager_title_gpx">GPX</string>
     <string name="file_manager_title_music">Music</string>
     <string name="file_manager_title_translist">Transfer queue</string>
     <string name="file_manager_transfer_failed">Failed</string>
@@ -381,7 +362,6 @@ Use your watch to measure your heart rate!"</string>
     <string name="heart_rate_rank">Heart rate interval</string>
     <string name="heart_rate_single">Single HR</string>
     <string name="heart_rate_sleep_info">即睡觉时记录的心率数值。</string>
-    <string name="heart_rate_unit">bpm</string>
     <string name="heart_rate_zone_info">心率分布区间可以帮助您针对不同的训练强度来优化锻炼。默认区间根据估测最大心率计算。我们利用常用的220减去年龄值公式计算最大心率。如下是心率区间分布说明：</string>
     <string name="heart_section0">Maximum</string>
     <string name="heart_section1">Anaerobic</string>
@@ -401,8 +381,6 @@ Use your watch to measure your heart rate!"</string>
     <string name="hr_area_no_data_tips">"No manual HR data
 Use the watch to measure heart rate!"</string>
     <string name="hr_date_detail_title">%1$s heart rate detail</string>
-    <string name="hr_date_month_pattern_12">MMM dd hh:mm:ss a</string>
-    <string name="hr_date_month_pattern_24">MMM dd HH:mm:ss</string>
     <string name="hr_date_span_title">%1$s-%2$s Average %3$s bpm</string>
     <string name="hr_delete_title">Delete this record?</string>
     <string name="hr_title_short">Heart rate</string>
@@ -425,8 +403,6 @@ Use the watch to measure heart rate!"</string>
     <string name="introduce_preview_version_short_title">Developer edition is for users who are eager to experience new features and have high tolerance for bugs.</string>
     <string name="introduce_preview_version_title">Developer edition is for users who are eager to experience new features and have high tolerance for bugs.</string>
     <string name="kilo_fastest">Fastest: %1$s</string>
-    <string name="kilobyteShort">KB</string>
-    <string name="km_title">km</string>
     <string name="last_heart_rate_value_title">Previous result</string>
     <string name="link">Join</string>
     <string name="load_end">No more data</string>
@@ -464,14 +440,11 @@ Use the watch to measure heart rate!"</string>
     <string name="max">Max: %1$s</string>
     <string name="max_altitude_title">Max altitude</string>
     <string name="max_cadence_text">Max cadence</string>
-    <string name="megabyteShort">MB</string>
     <string name="menu_continue">Continue editing</string>
     <string name="menu_delete">Delete the record</string>
     <string name="menu_edit">Edit the title and description</string>
     <string name="menu_not_save">Do not save</string>
     <string name="mile_fastest">Fastest: %1$s</string>
-    <string name="mileage_less_tips">&lt;1 km</string>
-    <string name="mileage_less_tips_five">&lt;5 km</string>
     <string name="mileage_less_tips_five_miles">&lt;5 mile</string>
     <string name="mileage_less_tips_miles">&lt;1 mile</string>
     <string name="miles_title">mile</string>
@@ -514,7 +487,6 @@ Use the watch to measure heart rate!"</string>
     <string name="noti_screen_on_ignore">"Not push, phone's screen is ON"</string>
     <string name="noti_screen_on_ignore_tip">"When switch ON, if phone's screen is ON, notification would't push to watch"</string>
     <string name="noti_switch_text">Push Notification</string>
-    <string name="noti_wechat">Wechat</string>
     <string name="noti_wechat_add">Add</string>
     <string name="noti_wechat_edit_hint">Please enter the nickname of WeChat contact</string>
     <string name="noti_wechat_friends_msg_setting">WeChat friend message filtering</string>
@@ -547,12 +519,7 @@ Use the watch to measure heart rate!"</string>
     <string name="password">Password</string>
     <string name="password_error">The password %1$s is wrong, please re-enter</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
-    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="pause_time">Pause time</string>
-    <string name="peap">PEAP</string>
     <string name="permission_read_contact">Contact Read Permission</string>
     <string name="permission_read_contact_tip">Names for incoming calls can only be displayed after this permission is turned on</string>
     <string name="permission_read_notification">Notification Read Permission</string>
@@ -563,7 +530,6 @@ Use the watch to measure heart rate!"</string>
     <string name="permission_self_starting_tip">Data communication with the phone can be better kept after this permission is turned on</string>
     <string name="personal_medal">Existing medal</string>
     <string name="personal_record">Personal Record</string>
-    <string name="petabyteShort">PB</string>
     <string name="plz_bind_first">Please pair first</string>
     <string name="plz_charge">Please connect the power supply</string>
     <string name="plz_input_nickname">Please input a nickname</string>
@@ -661,10 +627,7 @@ Privacy Policy and Terms of Service."</string>
     <string name="running_downhill_total_mileage_mile">Total Distance(mile)</string>
     <string name="running_energy_desc">Calories</string>
     <string name="running_history">Sports history</string>
-    <string name="running_history_12hours_format">%1$s %2$s</string>
-    <string name="running_history_child_date_format">%1$s</string>
     <string name="running_history_empty_prompt">There is no relevant sports record</string>
-    <string name="running_history_group_time_format">MMMM yyyy</string>
     <string name="running_history_loading">Just a sec…</string>
     <string name="running_lable_kilo_fastest">Fastest</string>
     <string name="running_lable_kilo_slowest">Slowest</string>
@@ -784,7 +747,6 @@ Privacy Policy and Terms of Service."</string>
     <string name="share_weixin_label">WeChat</string>
     <string name="show_qr">Display the QR code in the watch</string>
     <string name="show_qr_success">Send QR code successfully</string>
-    <string name="sim">SIM</string>
     <string name="skip_this_version">Skip this version</string>
     <string name="sleep">Sleep</string>
     <string name="sleep_all_time">In bed for</string>
@@ -808,12 +770,8 @@ Wear your watch to sleep!"</string>
     <string name="slope_change_pie_chart_up_label">Uphill</string>
     <string name="smart_filter_tip">Intelligently filter out all applications that do not require Notifications</string>
     <string name="smart_filter_title">Smart Filter</string>
-    <string name="speed_british">mph</string>
-    <string name="speed_metric">km/h</string>
-    <string name="speed_miles_unit_name">mi/h</string>
     <string name="speed_title">speed</string>
     <string name="speed_title_short">Speed</string>
-    <string name="speed_unit_name">km/h</string>
     <string name="sport">Sports</string>
     <string name="sport_area_no_data_tips">"No sports activity
 Run with watch on!"</string>
@@ -825,7 +783,6 @@ Run with watch on!"</string>
     <string name="sport_indoor_run_drag_tip">Drag up and down to adjust the \"Run Indoor\" list sequence of the watch</string>
     <string name="sport_info_desc">Description</string>
     <string name="sport_info_name">Title</string>
-    <string name="sport_load_unit">EPOC</string>
     <string name="sport_name_empty_tips">The title can not be blank</string>
     <string name="sport_outdoor_riding_drag_tip">Drag up and down to adjust the \"Bike\" list sequence of the watch</string>
     <string name="sport_run_drag_tip">Drag up and down to adjust the \"Run\" list sequence of the watch</string>
@@ -871,7 +828,6 @@ Wear your watch and move!"</string>
     <string name="step_info">Steps</string>
     <string name="step_unit">steps</string>
     <string name="storage_available">Available storage</string>
-    <string name="storage_g">G</string>
     <string name="stride_title_short">Stride</string>
     <string name="sun">Sun</string>
     <string name="swim_style_backstroke">Backstroke</string>
@@ -881,7 +837,6 @@ Wear your watch and move!"</string>
     <string name="swim_style_medley">Mixed</string>
     <string name="swimming_accumulated_distance">Accumulated distance(m)</string>
     <string name="swimming_accumulated_yard_distance">Accumulated distance(yd)</string>
-    <string name="swolf">SWOLF</string>
     <string name="sync_data">Data sync</string>
     <string name="sync_data_3th_party_access_tip">Please connect with Strava first</string>
     <string name="sync_data_3th_party_strava">Strava</string>
@@ -919,11 +874,9 @@ Wear your watch and move!"</string>
     <string name="tennis_percent_strokes">Strokes percent</string>
     <string name="tennis_serve">Serve</string>
     <string name="tennis_strokes_unit">Total Strokes</string>
-    <string name="terabyteShort">TB</string>
     <string name="third_in">Add accounts</string>
     <string name="thur">Thu</string>
     <string name="time_difference">Change</string>
-    <string name="time_format_hour_min">%1$sh %2$sm</string>
     <string name="time_format_min">%s min</string>
     <string name="time_title">time</string>
     <string name="tip_confirm_get_it">I know</string>
@@ -965,7 +918,6 @@ Wear your watch and move!"</string>
     <string name="training_title">Name</string>
     <string name="training_title_not_empty_tips">Please add name of the workout</string>
     <string name="training_title_tips">Please add name of the workout</string>
-    <string name="ttls">TTLS</string>
     <string name="tue">Tue</string>
     <string name="turn_bluetooth_on">Turn Bluetooth on</string>
     <string name="type_active">Active</string>
@@ -977,10 +929,6 @@ Wear your watch and move!"</string>
     <string name="unbind_disconnected">Disconnect the watch</string>
     <string name="unbind_disconnected_msg">Continuing to unpair may lose unsynchronized data, continue?</string>
     <string name="unbind_fail">Failed to unpair, please retry.</string>
-    <string name="unit_afternoon">PM</string>
-    <string name="unit_bike_ride">bpm</string>
-    <string name="unit_calorie">" kCal"</string>
-    <string name="unit_cm">cm</string>
     <string name="unit_distance">Distance</string>
     <string name="unit_english">Imperial</string>
     <string name="unit_evening">PM</string>
@@ -991,21 +939,10 @@ Wear your watch and move!"</string>
     <string name="unit_hour">h</string>
     <string name="unit_hour_long">h</string>
     <string name="unit_in">in</string>
-    <string name="unit_jin">jin</string>
-    <string name="unit_kg">kg</string>
-    <string name="unit_kilometer">" km"</string>
-    <string name="unit_km">km</string>
-    <string name="unit_km_has_space">km</string>
-    <string name="unit_lb">lbs</string>
-    <string name="unit_meter">" m"</string>
-    <string name="unit_meter_short">m</string>
     <string name="unit_metric">Metric</string>
     <string name="unit_mile">mile</string>
     <string name="unit_mile_space">" mile"</string>
-    <string name="unit_miles_has_space">mi</string>
-    <string name="unit_min">m</string>
     <string name="unit_min_long">min</string>
-    <string name="unit_min_short">m</string>
     <string name="unit_min_space">" min"</string>
     <string name="unit_moon">PM</string>
     <string name="unit_morning">AM</string>
@@ -1035,23 +972,14 @@ Wear your watch and move!"</string>
     <string name="update_force_tip">버전이 너무 오래 됐습니다. 업데이트를 하고 계속 사용해 주세요.</string>
     <string name="update_keep_update_no_wifi">업데이트 계속하기</string>
     <string name="update_later">나중에 알림</string>
-    <string name="update_log">ChangeLog:</string>
+    <string name="update_log">체인지 로그 : </string>
     <string name="update_net_error">업데이트에 실패했습니다., 네트워크 상태를 확인하고 다시 시도해 주세요.</string>
     <string name="update_net_no_wifi">"현재 WIFI에 연결 상태가 아니고, 업데이트시 많은 데이터를 요구할 수 있습니다. 업데이트를 계속하시겠습니까? "</string>
     <string name="update_new_version_found_tip">새로운 버전이 있습니다. %1$s</string>
     <string name="update_now">바로 업데이트</string>
     <string name="update_up_to_date">이미 최신 버전 입니다.</string>
     <string name="update_wifi_unavailable">WiFi 사용할 수 없음</string>
-    <string name="updating">업데이트 중, 기다려주세요…</string>
-    <string name="url_agreement">https://api-watch.huami.com/pages/huami.watch.user_agreement</string>
-    <string name="url_agreement_oversea">https://huami.zendesk.com/hc/en-us/articles/220266468-Privacy -Policy</string>
-    <string name="url_agreement_oversea_tos">https://huami.zendesk.com/hc/en-us/articles/220615587-Terms-of-Service</string>
-    <string name="url_connection_help">https://api-watch.huami.com/pages/huami.watch.manual.connect.error.android</string>
-    <string name="url_help_items">https://api-watch.huami.com/pages/huami.watch.manual.android</string>
-    <string name="url_help_unlock_failed">https://api-watch.huami.com/pages/huami.watch.connect.android</string>
-    <string name="url_syncing_data_help">https://api-watch.huami.com/pages/huami.watch.sync</string>
-    <string name="url_to_know_watch">http://www.amazfit.com/watch.html</string>
-    <string name="url_to_know_watch_us">https://www.amazfit.com/shop/pace?variant=25112</string>
+    <string name="updating">업데이트 중입니다. 잠시만 기다려주세요…</string>
     <string name="user_certificate">사용자 프로필</string>
     <string name="user_helper">도움</string>
     <string name="user_id">ID:%s</string>
@@ -1061,8 +989,6 @@ Wear your watch and move!"</string>
     <string name="userinfo_avatar_from_gallery">앨범에서 선택</string>
     <string name="userinfo_avatar_take_photo">사진 추가</string>
     <string name="userinfo_birthday">생일</string>
-    <string name="userinfo_birthday_value">%1$d-%2$d</string>
-    <string name="userinfo_centimeter">cm</string>
     <string name="userinfo_female">여</string>
     <string name="userinfo_finish">완료</string>
     <string name="userinfo_gender">성별</string>
@@ -1079,18 +1005,16 @@ Wear your watch and move!"</string>
     <string name="userinfo_nickname">닉네임</string>
     <string name="userinfo_nickname_empty">닉네임이 비어있습니다.</string>
     <string name="userinfo_nickname_too_long">30자 이상을 초과할 수 없습니다.</string>
-    <string name="userinfo_weight">몸 무게</string>
+    <string name="userinfo_weight">몸무게</string>
     <string name="userinfo_year">나이</string>
-    <string name="view_help">View Help</string>
-    <string name="vo2max">VO2max</string>
-    <string name="vo2max_current_max">Current VO2max</string>
-    <string name="vo2max_unit">ml/kg/min</string>
-    <string name="vo2max_update_time">업데이트 %1$s</string>
+    <string name="view_help">도움말 표시</string>
+    <string name="vo2max_current_max">현재 VO2max</string>
+    <string name="vo2max_update_time">%1$s개의 업데이트</string>
     <string name="watch_bluetooth_off">워치의 블루투스가 꺼져있음, 다시 시도해 주세요.</string>
     <string name="watch_connect_fail">워치 연결 실패</string>
     <string name="watch_disconnect">워치 연결 끊김, 연결 한 후 다시 시도해 주세요.</string>
     <string name="watch_face_as_new">새로운 배경화면 이미지</string>
-    <string name="watch_face_count">%1$d watchfaces</string>
+    <string name="watch_face_count">%1$d개의 워치 페이스</string>
     <string name="watch_face_cover_bg">백그라운드 이미지에 덮어쓰기</string>
     <string name="watch_face_load_bg">이미지 불러오기</string>
     <string name="watch_face_load_bg_tip">커스텀 워치페이스 배경화면을 보려면 워치와 동기화 해주세요.</string>
@@ -1102,15 +1026,15 @@ Wear your watch and move!"</string>
     <string name="watch_face_syncing">워치로 이미지 동기화 중</string>
     <string name="watch_name_info">워치 이름 설정</string>
     <string name="watch_rom_old">오래된 버전</string>
-    <string name="watch_rom_old_tips">"워치의 시스템 버전이 오래 되었습니다. More Settings \"  Check Upgrade \" 에서 업데이트 할 수 있습니다."</string>
+    <string name="watch_rom_old_tips">"워치의 시스템 버전이 오래 되었습니다. 설정에서 \"업데이트 확인\" 을 눌러 업데이트할 수 있습니다."</string>
     <string name="watch_rom_upgrade">ROM 업데이트</string>
     <string name="watch_setting">워치 설정</string>
     <string name="watch_storage_info">저장 공간: %1$s</string>
     <string name="watch_version_info">ROM 버전: %1$s</string>
     <string name="watchface_1">마라톤 라이프</string>
     <string name="watchface_everest">에베레스트</string>
-    <string name="wather_searching">찾는 중…</string>
-    <string name="weather_city_by_lbs">%s(위치 중)</string>
+    <string name="wather_searching">검색 중…</string>
+    <string name="weather_city_by_lbs">%s(검색중)</string>
     <string name="weather_city_hot">인기 도시들</string>
     <string name="weather_city_located">도시 찾기</string>
     <string name="weather_city_pick">도시 선택</string>
@@ -1152,8 +1076,8 @@ Wear your watch and move!"</string>
     <string name="widget_drag_tip">"순서를 조정하려면 위젯이나 앱을 위아래로 드래그하십시오.
 위젯과 앱 사이를 선택하면 바꿀 수 있습니다."</string>
     <string name="widget_heartrate">심박수</string>
-    <string name="widget_mi_tv_controller">MI TV 리모컨</string>
-    <string name="widget_mijia">Mi Home</string>
+    <string name="widget_mi_tv_controller">Mi TV 리모컨</string>
+    <string name="widget_mijia">Mi 홈</string>
     <string name="widget_music">음약</string>
     <string name="widget_order_hide">위젯과 앱 관리</string>
     <string name="widget_setting">앱 설정</string>
@@ -1172,15 +1096,12 @@ Wear your watch and move!"</string>
     <string name="wifi_input_ssid">네트워크 이름을 입력해 주세요.</string>
     <string name="wifi_name">네트워크 이름</string>
     <string name="wifi_password_edit_hint">Wi-Fi 비밀번호를 입력해 주세요.</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">다운로드 매니저 연결에 실패, ApplicationManager의 DownloadManager 상태를 확인하십시오.</string>
     <string name="xiaomi_external_storage_unavailable">저장 장치를 사용할 수 없습니다., SD card를 확인해 주세요.</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_login">Xiaomi login</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
-    <string name="xiaomi_update_dialog_message">"버전 안내 %1$s
+    <string name="xiaomi_login">샤오미 로그인</string>
+    <string name="xiaomi_update_dialog_message">"버전 : %1$s
 크기 : %2$s"</string>
-    <string name="xiaomi_update_dialog_message_diff">"버전 안내 %1$s
+    <string name="xiaomi_update_dialog_message_diff">"버전 : %1$s
 델타 업데이트 크기 : %2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s 업데이트!</string>
     <string name="xima_album">앨범</string>
@@ -1217,8 +1138,6 @@ Wear your watch and move!"</string>
     <string name="xima_watchspace">남은 저장 공간 %s</string>
     <string name="ximalaya">히말라야</string>
     <string name="ximalaya_cancel">취소</string>
-    <string name="ximalaya_storge_M">M</string>
-    <string name="ximalaya_storge_MB">MB</string>
     <string name="yesterday">어제</string>
     <string name="zepp_soccer_not_install">ZEPP Play Soccer 앱이 설치되어 있지 않습니다.</string>
     <string name="zepp_soccer_title">ZEPP Soccer 앱은 통계, 게임 등을 추적합니다!</string>
