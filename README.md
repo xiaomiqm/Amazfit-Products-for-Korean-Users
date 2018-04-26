@@ -5,7 +5,7 @@ Amazfit 커스텀 롬 번역과 Amazfit Watch 앱의 한글 번역을 준비하�
 
 ## 참여자
 
--Repository 제작 및 업로드 : 샤오미물음표 (xiaomiqm)<br />
+-Repository 제작 및 업로드 : 샤오미물음표 (xiaomiqm)<br /><br />
 -한글번역 : 샤오미물음표 (xiaomiqm)<br />
 -한글번역 : devtools (devtools)<br />
 -한글번역 : 넨슈 (anisoulist)<br />
