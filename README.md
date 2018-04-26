@@ -1,3 +1,6 @@
+![alt text](https://raw.githubusercontent.com/xiaomiqm/Amazfit-Products-for-Korean-Users/logo.png)
+
+
 # Amazfit 제품군 한글화 서비스 준비자료 모음집
 
 이 Repository는 Huami 사의 안드로이드 기반 스마트워치인 Amazfit 제품군의 한국 사용자를 위한 한글 자료를 제공하기 위해 제작되었습니다.
