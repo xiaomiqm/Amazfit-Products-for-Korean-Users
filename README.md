@@ -15,5 +15,4 @@ Amazfit 커스텀 롬 번역과 Amazfit Watch 앱의 한글 번역을 준비하�
 
 번역 관련은 Pull Request를 선호합니다. 상황이 여의치 않은 경우 카카오톡 'xiaomiqm' 아이디 친구추가 하신 후에 문자 보내주시면 바로 반영하도록 하겠습니다.
 
-<br />
 ![alt text](/logo.png)
