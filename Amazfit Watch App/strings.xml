@@ -238,7 +238,7 @@
     <string name="device_bind_watch">Please pair Amazfit Watch</string>
     <string name="device_connection_help">도움 연결</string>
     <string name="device_detail_info">장치 상세</string>    
-	<string name="device_main">활성 장치</string>
+    <string name="device_main">활성 장치</string>
     <string name="device_name">Amazfit Sports Watch</string>
     <string name="device_name_default">Amazfit Watch</string>
     <string name="device_name_everest">Amazfit Sports Watch 2</string>
