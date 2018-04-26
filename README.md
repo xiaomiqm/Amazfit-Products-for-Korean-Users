@@ -1,4 +1,4 @@
-![alt text](Amazfit-Products-for-Korean-Users/logo.png)
+![alt text](/logo.png)
 
 
 # Amazfit 제품군 한글화 서비스 준비자료 모음집
