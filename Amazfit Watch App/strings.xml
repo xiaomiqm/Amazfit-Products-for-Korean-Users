@@ -43,10 +43,10 @@
     <string name="allday_heart_rate_quite">쉴 때</string>
     <string name="allday_heart_rate_quite_text">쉴 때 평균 심박수 %1$s bpm</string>
     <string name="allday_heart_rate_recent_text">최근 심박수 : %1$s bpm</string>
-    <string name="allday_hr_area_no_data_tips">"HR 데이터가 없습니다.
-HR 감지를 시계에서 활성화 하십시오."</string>
+    <string name="allday_hr_area_no_data_tips">"심박수 데이터가 없습니다.
+심박수 감지를 시계에서 활성화 하십시오."</string>
     <string name="altitude_title_short">고도</string>
-    <string name="amazfit_watch">Amazfit 워치</string>
+    <string name="amazfit_watch">어메이즈핏 워치</string>
     <string name="anonymous_id">모르는 전화번호</string>
     <string name="app_name">Amazfit 워치</string>
     <string name="app_upgrade_down_complete">다운로드 완료됨</string>
@@ -83,8 +83,8 @@ Amazfit 워치 앱에서 동기화 하십시오."</string>
     <string name="bind_device_number_tip">같은 종류의 시계 여러 개를 동시에 연결할 수 없습니다.</string>
     <string name="bind_fail">페어링에 실패했습니다. 다시 시도하세요.</string>
     <string name="bind_fail_network_disconnect">데이터를 동기화할 수 없습니다. 네트워크 연결 상태를 확인하고 다시 시도하세요..</string>
-    <string name="bind_fail_watch_not_match">Amazfit Pace Watch에 연결할 수 없습니다. 구글 플레이 스토어에서 \"Amazfit Watch\" 앱을 설치하고 다시 시도하세요.</string>
-    <string name="bind_fail_watch_not_match_oversea">Amazfit Watch에 연결할 수 없습니다. Mi 앱 스토어에서 \"Amazfit手表\" 앱을 설치하고 다시 시도하세요.</string>
+    <string name="bind_fail_watch_not_match">어메이즈핏 페이스 워치에 연결할 수 없습니다. 구글 플레이 스토어에서 \"Amazfit Watch\" 앱을 설치하고 다시 시도하세요.</string>
+    <string name="bind_fail_watch_not_match_oversea">어메이즈핏 워치에 연결할 수 없습니다. Mi 앱 스토어에서 \"Amazfit手表\" 앱을 설치하고 다시 시도하세요.</string>
     <string name="bind_later">건너뛰기</string>
     <string name="bind_restore_fail">백업본 복원 실패</string>
     <string name="bind_success">연결 성공</string>
@@ -104,7 +104,7 @@ Amazfit 워치 앱에서 동기화 하십시오."</string>
     <string name="bluetooth_tip">Click \"Allow\" in the pop-up dialog box</string>
     <string name="body_state_title_short">신체 상태</string>
     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
-    <string name="bt_pairing_device_reset_tip">Amazfit Watch가 초기화 되었습니다, 곧 연결이 끊깁니다.</string>
+    <string name="bt_pairing_device_reset_tip">어메이즈핏 워치가 초기화 되었습니다, 곧 연결이 끊깁니다.</string>
     <string name="btn_cancel">취소</string>
     <string name="btn_close">닫기</string>
     <string name="btn_enter">확인</string>
