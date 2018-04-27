@@ -5,12 +5,11 @@ Amazfit 커스텀 롬 번역과 Amazfit Watch 앱의 한글 번역을 준비하�
 <br /><br />This repository is created to provide a quality Korean translation on Amazfit smartwatch products from Huami Technology, Inc. Our team is currently working on Amazfit Watch app translation, and will translate watch OS soon.
 
 ## 참여자
-
-<br /><br />
--한글번역 Translater : 샤오미물음표 (xiaomiqm)<br />
--한글번역 Translater : devtools (devtools)<br />
--한글번역 Translater : 넨슈 (HyunHoKimKR)<br />
--한글번역 Translater : 그남자1 (anisoulist)
+-프로젝트 설립자 Leader : 샤오미물음표 (xiaomiqm)<br /><br />
+-한글번역가 Translater : 샤오미물음표 (xiaomiqm)<br />
+-한글번역가 Translater : devtools (devtools)<br />
+-한글번역가 Translater : 넨슈 (HyunHoKimKR)<br />
+-한글번역가 Translater : 그남자1 (anisoulist)
 
 ## 문의 및 번역제보
 
