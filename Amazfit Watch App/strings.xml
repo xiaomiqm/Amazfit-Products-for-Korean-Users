@@ -802,11 +802,8 @@ Run with watch on!"</string>
     <string name="sports_load_suggest_status_recovery">High</string>
     <string name="sports_type_all">All</string>
     <string name="sports_type_bike_indoor_ride">Indoor Cycling</string>
-    <string name="sports_type_bike_ride">Cycling</string>
+    <string name="sports_type_bike_ride">사이클</string>
     <string name="sports_type_elliptical_trainer">Elliptical Trainer</string>
-    <string name="sports_type_mountaineering">Climb</string>
-    <string name="stable_version_title">You are using a Stable edition of Pace firmware which will be updated less frequently and more stable.</string>
-    <string name="start_bind_here">Please select the device to be paired</string>
     <string name="sports_type_mountaineering">등반</string>
     <string name="stable_version_title">안정 버전을 사용하고 있습니다. 업데이트는 적지만 안정적이게 사용 가능합니다.</string>
     <string name="start_bind_here">페어링 할 장치를 선택하세요.</string>
