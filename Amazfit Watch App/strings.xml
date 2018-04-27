@@ -807,7 +807,7 @@ Run with watch on!"</string>
     <string name="sports_type_mountaineering">Climb</string>
     <string name="stable_version_title">You are using a Stable edition of Pace firmware which will be updated less frequently and more stable.</string>
     <string name="start_bind_here">Please select the device to be paired</string>
-<string name="sports_type_mountaineering">등반</string>
+    <string name="sports_type_mountaineering">등반</string>
     <string name="stable_version_title">안정 버전을 사용하고 있습니다. 업데이트는 적지만 안정적이게 사용 가능합니다.</string>
     <string name="start_bind_here">페어링 할 장치를 선택하세요.</string>
     <string name="start_preview_failed">카메라 실행 실패, 기기가 사용 가능한지 확인해 주세요.</string>
@@ -1064,8 +1064,7 @@ Run with watch on!"</string>
     <string name="widget_compass">컴퍼스</string>
     <string name="widget_countdown">타이머</string>
     <string name="widget_data_center">일일 개요</string>
-    <string name="widget_drag_tip">"순서를 조정하려면 위젯이나 앱을 위아래로 드래그하십시오.
-위젯과 앱 사이를 선택하면 바꿀 수 있습니다."</string>
+    <string name="widget_drag_tip">"순서를 조정하려면 위젯이나 앱을 위아래로 드래그하십시오. 위젯과 앱 사이를 선택하면 바꿀 수 있습니다."</string>
     <string name="widget_heartrate">심박수</string>
     <string name="widget_mi_tv_controller">Mi TV 리모컨</string>
     <string name="widget_mijia">Mi 홈</string>
@@ -1090,10 +1089,8 @@ Run with watch on!"</string>
     <string name="xiaomi_connect_download_manager_fail">다운로드 매니저 연결에 실패, ApplicationManager의 DownloadManager 상태를 확인하십시오.</string>
     <string name="xiaomi_external_storage_unavailable">저장 장치를 사용할 수 없습니다., SD card를 확인해 주세요.</string>
     <string name="xiaomi_login">샤오미 로그인</string>
-    <string name="xiaomi_update_dialog_message">"버전 : %1$s
-크기 : %2$s"</string>
-    <string name="xiaomi_update_dialog_message_diff">"버전 : %1$s
-델타 업데이트 크기 : %2$s"</string>
+    <string name="xiaomi_update_dialog_message">"버전 : %1$s 크기 : %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"버전 : %1$s 델타 업데이트 크기 : %2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s 업데이트!</string>
     <string name="xima_album">앨범</string>
     <string name="xima_album_author">主播 : %s</string>
