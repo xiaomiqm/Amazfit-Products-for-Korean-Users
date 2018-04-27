@@ -520,7 +520,7 @@
     <string name="permission_request_location_tip">Please authorize location permission in order to search for Bluetooth devices.</string>
     <string name="permission_self_starting">Self-starting Permission</string>
     <string name="permission_self_starting_tip">Data communication with the phone can be better kept after this permission is turned on</string>
-    <string name="personal_medal">Existing medal</string>
+    <string name="personal_medal">보유한 메달</string>
     <string name="personal_record">Personal Record</string>
     <string name="plz_bind_first">Please pair first</string>
     <string name="plz_charge">Please connect the power supply</string>
