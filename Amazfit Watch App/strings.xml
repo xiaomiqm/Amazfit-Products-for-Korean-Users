@@ -1019,7 +1019,7 @@
     <string name="weather_city_pick_input_hint">도시 이름 입력</string>
     <string name="weather_daily_notification">일일 날씨 알림</string>
     <string name="weather_location_failed">위치 찾는 중…</string>
-    <string name="weather_no_permission">'위치' 권한을 부여해야 각 장소의 날씨를 보여줄 수 있습니다.</string>
+    <string name="weather_no_permission">위치 권한을 부여해야 각 장소의 날씨를 보여줄 수 있습니다.</string>
     <string name="weather_temp_unit">온도 단위</string>
     <string name="weather_temp_unit_c">섭씨 ºC</string>
     <string name="weather_temp_unit_f">화씨 ºF</string>
@@ -1030,7 +1030,7 @@
     <string name="webview_more_menu_refresh">새로 고침</string>
     <string name="webview_more_menu_resize">크기 조절</string>
     <string name="webview_more_menu_share">공유</string>
-    <string name="webview_permission_cam">Mi 건강 앱이 '카메라' 권한을 요청합니다.</string>
+    <string name="webview_permission_cam">Mi 건강 앱이 카메라 권한을 요청합니다.</string>
     <string name="webview_tips_failed_to_load">다운로드 실패</string>
     <string name="webview_tips_load_404">해당 페이지는 존재하지 않습니다.</string>
     <string name="webview_tips_load_retry_tip">확인 후 다시 시도해주세요.</string>
