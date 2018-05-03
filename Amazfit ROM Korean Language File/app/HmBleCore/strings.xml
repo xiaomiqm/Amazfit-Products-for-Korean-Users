@@ -1,26 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
   <string name="app_name">UnlockMIUI</string>
-  <string name="unlock_tips">Permit this watch to unlock phone</string>
-  <string name="enter">Enter</string>
-  <string name="ble_lost_notification_very_far">手机距离过远</string>
-  <string name="ble_lost_notification_phone_is_not_near">手机已不在身边，请注意携带。</string>
-  <string name="ble_lost_notification_prevent_lost_remind">手机防丢提醒</string>
-  <string name="ble_lost_notification_disconnect">手表已与手机断开连接。</string>
-  <string name="average_text">Avg</string>
-  <string name="menu_item_high_light_scale_factor">0.5</string>
-  <string name="picker_default_positive_text">Confirm</string>
-  <string name="picker_default_nagetive_text">Off</string>
-  <string name="no_heartrate_data_hint">Heart rate data not detected</string>
-  <string name="no_altitude_hint">Altitude data not detected</string>
+  <string name="unlock_tips">워치가 핸드폰 잠금을 해제할 수 있도록 허가하십시오.</string>
+  <string name="enter">진입</string>
+  <string name="ble_lost_notification_very_far">휴대폰과의 거리가 너무 멉니다.</string>
+  <string name="ble_lost_notification_phone_is_not_near">기기 주변에 휴대전화가 없습니다.</string>
+  <string name="ble_lost_notification_prevent_lost_remind">휴대폰 분실 방지 알림</string>
+  <string name="ble_lost_notification_disconnect">워치와 연결이 해제되었습니다.</string>
+  <string name="average_text">평균</string>
+  <string name="picker_default_positive_text">확인</string>
+  <string name="picker_default_nagetive_text">끄기</string>
+  <string name="no_heartrate_data_hint">심박수 데이터 없음</string>
+  <string name="no_altitude_hint">고도 정보 없음</string>
   <string name="ui_lib_name">Hm_UILib</string>
-  <string name="title_settings">Settings</string>
-  <string name="sport_music_settings">Sports music</string>
-  <string name="widget_currentstep_title">数据中心</string>
-  <string name="widget_currentstep_activities">今日运动</string>
-  <string name="widget_currentstep_sleep_hour">h</string>
-  <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
-  <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
-  <string name="widget_currentstep_activity_no">今日不运动吗?</string>
+  <string name="title_settings">설정</string>
+  <string name="sport_music_settings">스포츠 음악</string>
+  <string name="widget_currentstep_title">데이터</string>
+  <string name="widget_currentstep_activities">오늘 경기</string>
+  <string name="widget_currentstep_sleep_hour">시</string>
+  <string name="widget_currentstep_sleep_min">분</string>
+  <string name="widget_currentstep_sleep_title">어젯밤 수면 데이터</string>
+  <string name="widget_currentstep_sleep_no">수면 데이터 없음</string>
+  <string name="widget_currentstep_activity_no">오늘 활동이 없었나요?</string>
 </resources>
