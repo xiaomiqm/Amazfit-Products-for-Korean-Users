@@ -36,7 +36,7 @@
     <string name="date_picker_dialog_set">설정</string>
     <string name="month_picker_dialog_title">월 설정</string>
     <string name="accessibility_date_picker_week">주</string>
-    <string name="week_picker_dialog_title">Set week</string>
+    <string name="week_picker_dialog_title">주 설정</string>
     <string name="time_picker_dialog_am">오전</string>
     <string name="time_picker_dialog_pm">오후</string>
     <string name="time_picker_dialog_title">시간 설정</string>
