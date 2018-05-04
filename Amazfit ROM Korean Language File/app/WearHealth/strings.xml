@@ -5,7 +5,7 @@
     <string name="label_heartrate">심박수</string>
     <string name="ratio_notworn">워치를 차고 있지 않음</string>
     <string name="heartrate_wear_before_gauging">측정 전 워치를 착용하십시오.</string>
-	<string name="label_active_fast">혐기성</string>
+    <string name="label_active_fast">혐기성</string>
     <string name="label_active_fast_sick_any">아플 때 운동 강도가 평소보다 낮아야 하며 발열과 같은 심각한 증상이 나타나면 운동을 중지해야 합니다.</string>
     <string name="label_active_fast_tired_any">적당한 운동은 정신적 피로감을 완화 시키는 데 도움이됩니다. 육체적 인 피로를 위해 운동을 하기 위해 완전히 회복될 때까지 기다리십시오.</string>
     <string name="label_active_fast_well_bad">부정적인 감정을 풀어주기 위해 엔터테인먼트 요소가 포함 된 부드러운 활동을 선택하면 최상의 결과를 얻을 수 있습니다.</string>
@@ -57,7 +57,7 @@
     <string name="label_when_quiet">쉬는 중</string>
     <string name="label_when_active">운동 전/후</string>
     <string name="notif_detail_view">정보 보기</string>
-    <string name="notif_long_sit_desc">"You've been sitting for too long. Let's stand up and move around for a minute."</string>
+    <string name="notif_long_sit_desc">"너무 오래 앉아 계셨습니다. 일어나서 스트레칭 좀 하시죠!"</string>
     <string name="notif_long_sit_title">일어날 시간입니다</string>
     <string name="notif_target_half_reach_desc">당신은 오늘 목표의 반쯤 도달했습니다!</string>
     <string name="notif_target_half_reach_title">계속 그렇게 해주세요.</string>
@@ -84,7 +84,7 @@
     <string name="sleep_unit_minute">분</string>
     <string name="sleep_uniti_hour">시간</string>
     <string name="sleep_duration">%1$s시간 %2$s분</string>
-    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\">Hour&lt;/font> %2$s Min</string>
+    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\">시간&lt;/font> %2$s분</string>
     <string name="date_today">오늘</string>
     <string name="sleep_detail_title">기록</string>
     <string name="dlg_confirm">확인</string>
@@ -92,8 +92,8 @@
     <string name="am">오전</string>
     <string name="pm">오후</string>
     <string name="all_day_hearte_rate_button_open">연속 HR 사용</string>
-    <string name="all_day_hearte_rate_button_close">연속 HR 사용안함</string>
-    <string name="heart_rate_no_data">해당없음</string>
+    <string name="all_day_hearte_rate_button_close">연속 HR 사용 안함</string>
+    <string name="heart_rate_no_data">해당 없음</string>
     <string name="label_heart_rate_text">심박수</string>
     <string name="today_heart_rate_title_text">자세히</string>
     <string name="today_heart_rate_ave_text">평균</string>
@@ -109,12 +109,12 @@
     <string name="label_all_day_quite">휴식중</string>
     <string name="heart_rate_distribution">심박수 존</string>
     <string name="heart_rate_history">과거 평균 HR</string>
-    <string name="label_all_day_heartrate_waring">지속적인 HR은 더 많은 배터리를 소모합니다, 계속하시겠습니까?</string>
+    <string name="label_all_day_heartrate_waring">지속적인 HR 체크는 더 많은 배터리를 소모합니다, 계속하시겠습니까?</string>
     <string name="measure_heartrate_button_text">지금 체크</string>
-    <string name="burning_fat_heart_rate">Fat Burning</string>
-    <string name="aerobic_heart_rate">Aerobic</string>
-    <string name="high_strength_heart_rate">Anaerobic</string>
-    <string name="non_movement_heart_rate">Non-Workout</string>
+    <string name="burning_fat_heart_rate">지방 소비</string>
+    <string name="aerobic_heart_rate">에어로빅</string>
+    <string name="high_strength_heart_rate">혐기성</string>
+    <string name="non_movement_heart_rate">운동 안함</string>
     <string name="sleep_heart_rate">수면</string>
     <string name="stretch_dialog_title">늘어나는 시간</string>
     <string name="stretch_dialog_subtitle">오늘 너무 많이 앉았습니다.</string>
@@ -138,12 +138,12 @@
     <string name="widget_heart_analysis">분석</string>
     <string name="widget_step_target_txt">Goal:  <liff>%d</liff></string>
     <string name="widget_step_target_complete">Reached the goal</string>
-    <string name="widget_step_target_second_tips"><liff>%d</liff> seconds ago</string>
-    <string name="widget_step_target_min_tips"><liff>%d</liff> minutes ago</string>
-    <string name="widget_step_target_hour_tips"><liff>%d</liff> hours ago</string>
-    <string name="widget_step_target_day_tips"><liff>%d</liff> days ago</string>
-    <string name="widget_step_target_month_tips"><liff>%d</liff> months ago</string>
-    <string name="widget_step_target_year_tips"><liff>%d</liff> years ago</string>
+    <string name="widget_step_target_second_tips"><liff>%d</liff>분 전</string>
+    <string name="widget_step_target_min_tips"><liff>%d</liff>분 전</string>
+    <string name="widget_step_target_hour_tips"><liff>%d</liff>시간 전</string>
+    <string name="widget_step_target_day_tips"><liff>%d</liff>일 전</string>
+    <string name="widget_step_target_month_tips"><liff>%d</liff>개월 전</string>
+    <string name="widget_step_target_year_tips"><liff>%d</liff>년 전</string>
     <string name="widget_label_step_unit">스탭</string>
     <string name="widget_label_heartrate">심박수</string>
     <string name="widget_label_heartrate_unit">beat/min</string>
@@ -154,10 +154,10 @@
     <string name="widget_heart_gauged_err">결과 얻기 실패</string>
     <string name="widget_heart_gauged_err_tips">손목위에 워치를 차세요.</string>
     <string name="widget_weeklysports_heartrate_unit">bpm</string>
-    <string name="widget_sleep_conment">Great sleep this week, keep it up!</string>
+    <string name="widget_sleep_conment">좋은 수면 습관을 가지셨습니다. 좋은 수면 습관을 계속하세요!</string>
     <string name="weeklysports_title">주간 활동</string>
     <string name="weeklysports_totalnumber_front">총 운동</string>
-    <string name="weeklysports_totalstep_front">걸었다</string>
+    <string name="weeklysports_totalstep_front">걸음</string>
     <string name="weeklysports_totaltime">총 경과 시간</string>
     <string name="weeklysports_totaltime_unit">/</string>
     <string name="weeklysports_totalcalories">총 칼로리</string>
@@ -170,12 +170,10 @@
     <string name="weeklysports_ridingrate">저전거 속도</string>
     <string name="weeklysports_outdoorriding_average">실외 자전거 평균 속도</string>
     <string name="weeklysports_outdoorriding_max">실외 자전거 최고 속도</string>
-    <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
-    <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
     <string name="weeklysports_swimerrate">수영</string>
     <string name="weeklysports_innerswimrate">수영장 수영</string>
-    <string name="weeklysports_openswimrate">Open Water</string>
-    <string name="weeklysports_triathlon">Triathlon</string>
+    <string name="weeklysports_openswimrate">야외 수영</string>
+    <string name="weeklysports_triathlon">트라이에슬론</string>
     <string name="weeklysports_triathlon_totaltime">총 시간</string>
     <string name="weeklysports_triathlon_hour">시간</string>
     <string name="weeklysports_triathlon_min">분</string>
@@ -219,7 +217,7 @@
     <string name="currentstep_distance">거리</string>
     <string name="currentstep_time">시간</string>
     <string name="currentstep_history_title">과거 데이터</string>
-    <string name="detail_date">Today %1$s</string>
+    <string name="detail_date">오늘 %1$s</string>
     <string name="widget_weeklyreports_heart_rate_min_text">최소(bpm)</string>
     <string name="widget_weeklyreports_heart_rate_max_text">최대(bpm)</string>
     <string name="widget_weeklyreports_heart_rate_title">심박수</string>
@@ -231,11 +229,11 @@
     <string name="widget_weeklyreports_reports_review">주간 리뷰</string>
     <string name="widget_sleep_title">수면</string>
     <string name="widget_sleep_late">너무 늦게 잡니다</string>
-    <string name="widget_sleep_deep_leak">아주 조금 깊은잠</string>
+    <string name="widget_sleep_deep_leak">아주 조금 잠</string>
     <string name="widget_sleep_leak">수면 부족</string>
     <string name="widget_sleep_easyawake">일찍 일어남</string>
-    <string name="widget_sleep_average_calories">Average daily %1$s kCal</string>
-    <string name="widget_sleep_totaltime">Total sleep %1$s h %2$s min</string>
+    <string name="widget_sleep_average_calories">일일 평균 %1$skCal</string>
+    <string name="widget_sleep_totaltime">총 수면 시간 %1$s시간 %2$s분</string>
     <string name="widget_sleep_attained_unit">점수</string>
     <string name="currentstep_detail_heart">심박수</string>
     <string name="currentstep_detail_activity_chart">활동</string>
